@@ -1,0 +1,4 @@
+2008-04-06 20:44:00 Warning: Warning (512): Method HtmlHelper::submit does not exist in [CORE\cake\libs\view\helper.php, line 148]
+2008-04-06 20:46:20 Warning: Warning (512): Method HtmlHelper::submit does not exist in [CORE\cake\libs\view\helper.php, line 148]
+2008-04-06 20:51:03 Warning: Warning (512): Method HtmlHelper::submit does not exist in [CORE\cake\libs\view\helper.php, line 148]
+2008-04-06 20:51:43 Warning: Warning (512): Method HtmlHelper::submit does not exist in [CORE\cake\libs\view\helper.php, line 148]
